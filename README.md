@@ -17,10 +17,11 @@ Being in such a technological hub as Dublin I've realised that something wasn't 
 - Spend time with my girlfriend Ana, she deserves everything as is not easy to cope with me...
 
 ### Contact
-📞 +353(0)89 452 767
-✉ maninastre@gmail.com
-🔗 
- [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://shields.io/)
+📞 +353(0)89 452 767  
+[![General badge](
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://shields.io/) maninastre@gmail.com   
+[![General badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shields.io/) https://github.com/josericodata  
+[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://shields.io/) https://www.linkedin.com/in/josericodata/
 
 
 <!--
