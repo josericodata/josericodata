@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Jose Rico!
+Many thanks for visiting my Github profile 😊!
 
 <!--
 **josericodata/josericodata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
