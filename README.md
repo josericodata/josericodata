@@ -16,6 +16,12 @@ Being in such a technological hub as Dublin I've realised that something wasn't 
 - Watch *"La liga"* matches every weekend, I'm a big fan of *"Real Madrid, C.F."* for me simply the best.
 - Spend time with my girlfriend Ana, she deserves everything as is not easy to cope with me...
 
+### Contact
+📞 +353(0)89 452 767
+✉ maninastre@gmail.com
+🔗 
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+
 
 <!--
 **josericodata/josericodata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
