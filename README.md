@@ -20,7 +20,7 @@ Being in such a technological hub as Dublin I've realised that something wasn't 
 📞 +353(0)89 452 767
 ✉ maninastre@gmail.com
 🔗 
- [![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+ [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://shields.io/)
 
 
 <!--
