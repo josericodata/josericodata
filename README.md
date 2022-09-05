@@ -1,6 +1,14 @@
 ### Hi there 👋 I am Jose Rico!
 Many thanks for visiting my Github profile 😊!
 
+### About Me
+I love learning stuff about data science, because once you've got the insights you've got the power to get in stakeholder minds!! I graduated recently in a Higher Diploma in Science in Computing (Software Development) at Dublin Business School, while studying I've combined working as a pricing analyst at Cardinal Health. My job here is being the data analyst for bids and tenders and FP&A teams.
+
+### Background
+
+I've studied a Bachelor Degree in Business and Management, graduating in 2016. My first professional work experience was an intership in a local company called "Puertas Castalla,S.L.", after the intership period I've got an offer and I've started as an account manager. After two years in this position I took a promotion as an incidence manager and after another two years I decided to leave not only this company, to leave my beloved Spain. It was time to enhace my English by moving to the Republic of Ireland, I've arrived to Dublin in October 2018. My first job in Ireland was working as a Community Operations Analyst onsite Facebook.
+Being in such a technological hub as Dublin I've realised that something wasn't right in my background, that is how I decided to get into this *"Trendy data science era"*
+
 <!--
 **josericodata/josericodata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
