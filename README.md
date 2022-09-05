@@ -2,7 +2,7 @@
 Many thanks for visiting my Github profile 😊!
 
 ### About Me
-I love learning stuff about data science, because once you've got the insights you've got the power to get in stakeholder minds!! I graduated recently in a *Higher Diploma in Science in Computing (Software Development)* at *Dublin Business School*, while studying I've combined working as a *Pricing Analyst* at **Cardinal Health**. My job here is being the data analyst for bids and tenders and FP&A teams.
+I love learning stuff about data science, because once you've got the insights you've got the power to get in stakeholder minds!! I recently graduated in a *Higher Diploma in Science in Computing (Software Development)* at *Dublin Business School*, while studying I've combined working as a *Pricing Analyst* at **Cardinal Health**. My job here is being the data analyst for bids and tenders and FP&A teams.
 
 ### Background
 
