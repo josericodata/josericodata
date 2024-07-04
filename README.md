@@ -1,40 +1,33 @@
-### Hi there 👋 I am Jose Rico!
-Many thanks for visiting my Github profile 😊!
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" style="margin-bottom: -5px;"/>!</h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=4000&pause=10&color=010406&random=false&width=435&lines=I'm+Jose+Rico!;A+Senior+Pricing+Analyst...;Chasing++a+career+in+Data+Analytics+!" alt="Typing SVG" />
+  </a>
+</h1>
+---
 
 ### About Me
-I love learning stuff about data science, because once you've got the insights you've got the power to get in stakeholder minds!! I recently graduated in a *Higher Diploma in Science in Computing (Software Development)* at *Dublin Business School*, while studying I've combined working as a *Pricing Analyst* at **Cardinal Health**. My job here is being a data analyst for bids and tenders and FP&A teams.
 
-### Background
+Greetings! I’m Jose, originally from Spain and have made Ireland my home for the past six years. I am currently a Senior Pricing Analyst at Cardinal Health, where my role involves bridging the gap between business needs and IT capabilities. My primary focus is on ensuring data accuracy within Salesforce and SAP systems, and creating insightful visualizations to support commercial teams.
 
-I've studied a Bachelor Degree in Business and Management, graduating in 2016. My first professional work experience was an intership in a local company called ***"Puertas Castalla,S.L."***, after the intership period I've got an offer and I've started working as an account manager. After two years in this position I took a promotion as an incidence manager and after another two years I decided to leave not only this company, to leave my beloved Spain. It was time to enhace my English by moving to the Republic of Ireland.
-
-I've arrived to Dublin in October 2018. My first job in Ireland was working as a *Community Operations Analyst* onsite ***Facebook***.
-Being in such a technological hub as Dublin I've realised that something wasn't right in my background, that is how I decided to get into this *"Trendy data science era"*. In September 2019 I've enrolled myself in a *Diploma in Big Data for Business*, that was the first exposure to SQL, PowerBi and Tableau. Upon the completion of this Diploma I've got the job at **CAH**, in this role is where my analytics skills boosted.
-
-### What I do to Enjoy?
-- Ryde my bike around wicklow, this is my medicine when a python script crashes or a visualisation in PowerBi won't render....
-- Watch *"La liga"* matches every weekend, I'm a big fan of *"Real Madrid, C.F."* for me simply the best.
-- Spend time with my girlfriend Ana, she deserves everything as is not easy to cope with me...
+With a keen interest in data analytics, I am actively pursuing a Master of Science in Data Analytics at CCT College. This academic pursuit is enhancing my analytical capabilities and proficiency in data visualization tools. I am driven by a passion for transforming data into strategic business solutions and am always on the lookout for new challenges in the field of data analytics.
 
 ### Contact
-📞 +353(0)89 452 767  
-[![General badge](
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://shields.io/) maninastre@gmail.com   
-[![General badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shields.io/) https://josericodata.github.io/  
-[![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://shields.io/) https://www.linkedin.com/in/josericodata/
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/josericodata/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  </a>
+  <a href="https://josericodata.github.io/">
+    <img src="https://img.shields.io/badge/Website-0077B5?style=flat&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="assets/Jose_Rico_CV.pdf">
+    <img src="https://img.shields.io/badge/CV-0077B5?style=flat&logo=resume&logoColor=white" alt="CV">
+  </a>
+</p>
+<p align="center">
+  <img src="assets/github-snake.svg" alt="Snake Animation" style="pointer-events: none;"/>
+</p>
 
-<!--
-**josericodata/josericodata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
