@@ -13,21 +13,26 @@ Greetings! I’m Jose, originally from Spain and have made Ireland my home for t
 
 With a keen interest in data analytics, I am actively pursuing a Master of Science in Data Analytics at CCT College. This academic pursuit is enhancing my analytical capabilities and proficiency in data visualization tools. I am driven by a passion for transforming data into strategic business solutions and am always on the lookout for new challenges in the field of data analytics.
 
-### Contact
+### Skills
+
+- **Machine Learning:** Proficient in applying machine learning techniques such as `Random Forest`, `Decision Trees`, `K-Nearest Neighbors`, `Neural Networks (NNs)`, and `Convolutional Neural Networks (CNNs)`.
+- **Statistics for Data Analysis:** Strong foundation in statistical methods for analyzing data, including `Confidence Intervals`, `Chi-Square Test`, `Hypothesis Testing`, `ANOVA Test`, and `Kruskal-Wallis Test`.
+- **Programming for Data Analytics:** Experienced in programming languages such as Python, SQL, and R.
+- **Big Data Storage & Processing:** Knowledgeable in handling and processing large datasets using the Hadoop ecosystem, including `Spark`, `MapReduce`, `Hive`, as well as databases like `Cassandra` and `MongoDB`.
+- **Advanced Data Analysis:** Capable of performing complex data analysis to derive actionable insights, using Python libraries such as `pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn`, and `scikit-learn`.
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josericodata/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  </a>
   <a href="https://josericodata.github.io/">
     <img src="https://img.shields.io/badge/Website-0077B5?style=flat&logo=google-chrome&logoColor=white" alt="Website">
   </a>
-  <a href="assets/Jose_Rico_CV.pdf">
+  <a href="https://josericodata.github.io/assets/CV/Jose_Rico_CV.pdf">
     <img src="https://img.shields.io/badge/CV-0077B5?style=flat&logo=resume&logoColor=white" alt="CV">
   </a>
 </p>
 <p align="center">
   <img src="assets/github-snake.svg" alt="Snake Animation" style="pointer-events: none;"/>
 </p>
-
