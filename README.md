@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=4000&pause=10&color=010406&random=false&width=435&lines=I'm+Jose+Rico!;A+Senior+Pricing+Analyst...;Chasing++a+career+in+Data+Analytics+!" alt="Typing SVG" />
   </a>
 </h1>
----
+
 
 ### About Me
 
