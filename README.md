@@ -33,6 +33,10 @@ With a keen interest in data analytics, I am actively pursuing a Master of Scien
     <img src="https://img.shields.io/badge/CV-0077B5?style=flat&logo=resume&logoColor=white" alt="CV">
   </a>
 </p>
+
+### You are visitor <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" />
+![Visitor Count](https://profile-counter.glitch.me/{josericodata}/count.svg)
+
 <p align="center">
   <img src="assets/github-snake.svg" alt="Snake Animation" style="pointer-events: none;"/>
 </p>
