@@ -1,7 +1,7 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="32px" style="margin-bottom: -5px;"/></h1>
 
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Looking+for+Data+Analytics+and;Technical+roles+%F0%9F%98%80" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=22&pause=1000&color=040C10&width=435&lines=Looking+for+Data+Analytics+and;Technical+roles+%F0%9F%98%80" alt="Typing SVG" /></a>
 </h1>
 
 
