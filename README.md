@@ -2,6 +2,8 @@
 
 **Currently Supporting Business at Cardinal Health, LTD.**  
 
+![Visitor Count](https://komarev.com/ghpvc/?username=josericodata&color=orange&style=flat-square)
+
 ---
 
 ## 🛠 Tech Stack  
@@ -58,11 +60,6 @@
 </p>
 
 ---
-
-### You are visitor <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" />
-
-![Visitor Count](https://komarev.com/ghpvc/?username=josericodata&color=orange&style=flat-square)
-
 
 <p align="center">
   <img src="assets/github-snake.svg" alt="Snake Animation" style="pointer-events: none;"/>
