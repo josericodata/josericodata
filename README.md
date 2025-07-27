@@ -60,7 +60,9 @@
 ---
 
 ### You are visitor <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" />
-![Visitor Count](https://profile-counter.glitch.me/{josericodata}/count.svg)
+
+[![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjosericodata&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <p align="center">
   <img src="assets/github-snake.svg" alt="Snake Animation" style="pointer-events: none;"/>
